@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mzegar/mzegar.github.io/precache-manifest.262c7d77c5e331f94a2e06d5fc0ed114.js"
+  "/mzegar/mzegar.github.io/precache-manifest.ddeb3d74de8293c8fd60d6570571ec3d.js"
 );
 
 self.addEventListener('message', (event) => {
