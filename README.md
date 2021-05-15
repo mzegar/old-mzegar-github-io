@@ -1,8 +1,6 @@
 # mzegar.github.io
 
-Personal portfolio website created using React
-
-https://mzegar.github.io/
+Backup of my personal portfolio website created using React. 
 
 ## Project Structure
 
